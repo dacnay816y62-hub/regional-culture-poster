@@ -4,6 +4,7 @@
 ![Skill](https://img.shields.io/badge/skill-regional--culture--poster-6f42c1)
 ![Codex](https://img.shields.io/badge/Codex-supported-2ea44f)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-supported-111827)
+![Validation](https://github.com/dacnay816y62-hub/regional-culture-poster/actions/workflows/validate.yml/badge.svg)
 ![Mode A](https://img.shields.io/badge/Mode%20A-structural%20character-orange)
 ![Mode B](https://img.shields.io/badge/Mode%20B-editorial%20poster-teal)
 ![Direct Generation](https://img.shields.io/badge/direct%20generation-optional-brightgreen)
