@@ -246,6 +246,220 @@ Typography variation must come from the city's structure, material, climate, or 
 - English city name is only an index and must not compete with the Chinese title.
 - Title variation comes from regional reasoning, not random font changes.
 
+## Final patch: base color, crafted boundary effects, and stronger title creativity
+
+This final MODE B patch upgrades the series from a repeated "left text / right image" template into a unified editorial method with city-specific craft variation.
+
+Core principle:
+
+> The series is unified by method, not by surface repetition.
+
+The city image remains the subject and the title remains the editorial anchor, but the background base color, title treatment, boundary craft, material feeling, and anti-repetition logic may vary by city.
+
+### City-specific background base color
+
+The background base no longer has to be the same paper-white tone across the whole batch.
+
+Allowed base directions must stay restrained, premium, paper-like, or material-derived:
+
+- warm paper beige
+- grey white
+- pink white
+- old palace paper beige
+- light sand
+- pale ceramic earth
+- cool white grey
+- mist blue grey
+- light cyan grey
+- pale ice blue
+- old wall white
+- pale clay yellow
+- warm stone grey
+- very pale lotus grey
+- very pale indigo grey
+
+City suggestions:
+
+- Xi'an: warm sand, earthen yellow-white, old wall beige; respond to rammed earth, city walls, and historical dust-light.
+- Suzhou: cool white, pink white, old wall white, rain grey; respond to powder walls, rainwater, canals, and dark tile.
+- Lanzhou: warm paper white, Yellow River sand beige, light smoke-clay grey; respond to river wind, iron bridge, and riverbank.
+- Kunming / Dali: clear blue-white, mist cyan-white, sunlight white; respond to highland light, lake surface, and air.
+- Harbin: cold grey-white, ice blue-white, snow-surface white; respond to cold light, ice brick, arches, and winter air.
+- Hong Kong: cool grey, mist blue-grey, humid wall white; respond to slope streets, harbor humidity, and building sections.
+- Jingdezhen: porcelain white, cyan grey-white, old kiln white, pale grey-blue; respond to blue-and-white porcelain, ceramic surface, kiln fire, and craft.
+- Fujian: warm white, sea-wind beige, light brick white; respond to swallowtail ridges, red brick, sea wind, and alleys.
+
+Forbidden base behavior:
+
+- high-saturation red, bright yellow, fluorescent blue, or other commercial color fields;
+- the same background color repeated across the whole batch;
+- a base color unrelated to the city's material, climate, or cultural subject.
+
+### Stronger but controlled title creativity
+
+Keep the main title size relatively stable across the series. Do not create difference by simply making titles larger and larger.
+
+Recommended range:
+
+- about 24-32% of the text-area height;
+- similar visual weight inside the same batch;
+- variation should come from glyph structure, local craft, and regional logic rather than scale changes.
+
+Allowed title interventions:
+
+1. Local structural embedding
+   - Bridge frame, gate frame, ice facet, window grid, mountain ridge, swallowtail ridge, kiln crack, etc.
+   - Embed into only one or two strokes.
+2. Local material hint
+   - Blue-and-white porcelain, old timber, stone wall, paper fiber, metal edge, etc.
+   - Keep it light; do not cover the whole glyph surface.
+3. Local craft cut
+   - Torn edge, splice, pressed mark, white break, engraving, or cut notch.
+   - Use it on one stroke or one corner only.
+4. Regional structural borrowing
+   - Tibet gate steps, Inner Mongolia wind line, Hong Kong vertical building section, Lanzhou bridge truss, Suzhou garden-window line foot, etc.
+   - Adjust glyph proportion; do not paste icons.
+5. Micro negative-space design
+   - Small counterform hints for gate holes, bridge arches, window openings, or arch coupons.
+   - Legibility is mandatory.
+
+Forbidden title behavior:
+
+- returning to full giant-character image-fill mode;
+- excessive glyph fragmentation;
+- letting the title overpower the city space;
+- pasting a full set of architectural decorations onto the text;
+- using the same title treatment for every city in a batch.
+
+### Crafted boundary effect patch
+
+The left boundary between text and image should no longer be only a plain contour line. It may carry one clear crafted effect and become part of the series identity.
+
+Use exactly one dominant boundary effect per poster:
+
+#### E1 Cut-paper edge
+
+Characteristics:
+
+- crisp silhouette;
+- clean cut;
+- subtle shadow;
+- paper-like layered edge.
+
+Suitable for Xi'an, Beijing, Fujian, Shangrao, and restrained Suzhou variants.
+
+Prompt keywords: `cut paper edge`, `crisp silhouette`, `subtle shadow`, `layered paper cut`.
+
+#### E2 Torn-paper edge
+
+Characteristics:
+
+- fiber texture and irregular tear;
+- slight thickness and shadow;
+- feels like the paper layer is torn open to reveal the city space behind it.
+
+Suitable for Xi'an, Lanzhou, Harbin, Jingdezhen, and industrial-old-wall Hong Kong variants.
+
+Prompt keywords: `torn paper edge`, `ripped paper silhouette`, `fiber texture`, `paper thickness`.
+
+#### E3 Material-collage edge
+
+Characteristics:
+
+- the boundary feels assembled from different materials;
+- can combine paper, iron bridge, stone, ceramic shard, brick, or timber;
+- may show layering, inlay, embedded edges, or wrapping.
+
+Suitable for Lanzhou, Jingdezhen, Harbin, Fujian, and Hong Kong.
+
+Prompt keywords: `material collage edge`, `layered material splice`, `embedded texture boundary`, `mixed material silhouette`.
+
+#### E4 Pure flat minimal silhouette
+
+Characteristics:
+
+- very clean;
+- one elegant regional contour change;
+- may include light embossing or an extremely weak shadow;
+- feels like modern magazine design.
+
+Suitable for Suzhou, Kunming, Dali, Lijiang, and Wenzhou.
+
+Prompt keywords: `minimal flat silhouette`, `quiet graphic edge`, `embossed edge`, `minimal editorial cut`.
+
+#### E5 Embossed / shallow relief edge
+
+Characteristics:
+
+- the boundary feels pressed into the paper surface rather than torn;
+- depends on light and shadow for premium tactility;
+- highly restrained.
+
+Suitable for Beijing, Suzhou, Kunming, modern quiet Hong Kong, and white-porcelain Jingdezhen.
+
+Prompt keywords: `embossed paper edge`, `shallow relief silhouette`, `subtle cast shadow`, `premium tactile border`.
+
+#### E6 Embedded architectural sectional edge
+
+Characteristics:
+
+- the boundary locally exposes gate frames, bridge structures, window frames, timber, wall corners, or urban sections;
+- the city structure itself feels embedded in the boundary;
+- can combine lightly with torn or material-splice effects.
+
+Suitable for Tibet, Lanzhou, Hong Kong, Fujian, and Jingdezhen.
+
+Prompt keywords: `embedded architectural edge`, `sectional urban border`, `frame integrated silhouette`.
+
+Boundary effect rules:
+
+- Use only one dominant craft direction per poster.
+- The boundary still obeys the earlier restraint rule: upper part can carry regional features, middle part transitions with control, and lower part should resolve toward a straighter ending.
+- Subtle shadows are allowed when they feel like real paper thickness, shallow relief, or material splice.
+- Avoid cartoon shadows, heavy 3D effects, glow outlines, and fake digital filter effects.
+
+### City-to-boundary-effect suggestions
+
+- Beijing: cut-paper edge or shallow relief edge; structural Song title with gate-frame layers; warm paper white or palace-wall beige.
+- Tibet / Lhasa: embedded architectural edge or torn-paper edge; inscription/architectural title with small gate-step node; highland white, stone grey-white, or pale earth white.
+- Inner Mongolia: pure flat minimal silhouette; flat wide title with yurt/wind-line local borrowing; pale grass grey, warm white, or mist beige-white.
+- Hong Kong: material-collage edge or embedded architectural sectional edge; modern display title with vertical building cuts; humid wall grey-white or mist blue-grey.
+- Suzhou: pure flat minimal silhouette or shallow relief edge; humanist Song title with garden-window line foot; powder-wall white, cool white, or after-rain grey-white.
+- Lanzhou: torn-paper edge or material-collage edge; bridge-truss folded title; warm sand beige or Yellow River paper white.
+- Jingdezhen: material-collage edge or embossed edge; modern narrow Song with small porcelain crack cuts; porcelain white or cyan grey-white.
+- Fujian: cut-paper edge or embedded architectural edge; structural Song with one swallowtail-ridge raised stroke; warm white or sea-wind beige.
+- Kunming / Dali: minimal edge or shallow relief edge; light Song with sunlight proportions; clear blue-white or lake-surface white.
+
+### Anti-repetition rules for batches
+
+To avoid repeated city mood, repeated layout, repeated boundary, and repeated title treatment, any two posters in the same batch must differ in at least three of these dimensions:
+
+- background base color;
+- title skeleton;
+- title intervention type;
+- dominant boundary craft effect;
+- boundary source;
+- main spatial structure;
+- main climate;
+- main material.
+
+Boundary craft distribution:
+
+- in any 4-poster batch, the same dominant boundary effect may appear at most 2 times;
+- in any 6-poster batch, use at least 3 different boundary effects;
+- in any 9-poster batch, use at least 4 different boundary effects.
+
+Title creativity distribution:
+
+- do not use only gate-hole negative space in every title;
+- do not use porcelain cracks in unrelated cities;
+- do not use building cut corners for every city;
+- do not use metal frame insertion repeatedly across the batch.
+
+Series rule:
+
+> Unity comes from method. Difference comes from city-specific color, title craft, boundary craft, material, and climate.
+
 ## Text hierarchy
 
 MODE B should keep five information levels:
@@ -345,6 +559,39 @@ architectural inscription style, or modern display style. Apply only 10-20%
 regional adaptation. Keep the title fully legible. Do not use the same font
 treatment for every city, generic calligraphy, or excessive flowing strokes.
 
+COLOR BASE PATCH:
+Use a city-specific background base color instead of repeating the same paper-white tone.
+Choose a restrained premium base according to the city's climate, material, and atmosphere,
+such as warm paper beige, cool grey-white, mist blue-grey, ceramic white, sand-white, lake-white, or old wall white.
+
+TITLE CREATIVITY PATCH:
+Keep the main Chinese city title at a relatively consistent visual size,
+but give it slightly more creativity through region-derived structural adaptation.
+Use only one or two subtle interventions:
+architectural negative space, material hints, sectional cut, bridge logic, window geometry,
+mountain silhouette, ceramic crack detail, icy edge, or roof-ridge gesture.
+The title must remain fully legible and must not become the dominant image subject.
+
+BOUNDARY EFFECT PATCH:
+The left boundary between text and image should use one clear crafted effect,
+chosen from:
+1. cut-paper edge,
+2. torn-paper edge,
+3. material-collage edge,
+4. pure flat minimal silhouette,
+5. embossed / shallow relief edge,
+6. embedded architectural sectional edge.
+
+The effect may include subtle shadow, paper thickness, material layering, or tactile relief.
+Avoid fake digital effects.
+Avoid strong decorative curves.
+The lower part of the boundary should still resolve toward a straighter ending.
+
+ANTI-REPETITION PATCH:
+For each batch, vary at least three of the following:
+base color, title skeleton, title intervention type, boundary effect, boundary source, main material, climate.
+Do not repeat the same city, same palette, same title treatment, or same boundary logic too often.
+
 No giant character mask.
 No landmark collage.
 No repeated skyline icons.
@@ -376,6 +623,12 @@ Vertical 3:4.
 - Does the lower 20-35% return to straight or orthogonal order?
 - Does the boundary avoid continuous soft curves and repeated landmark icons?
 - Does the layout differ clearly from the previous poster?
+- Is the background base color different from the previous poster when working in a batch?
+- Is the title size stable while the treatment method differs?
+- Does title creativity come from regional reasoning rather than decoration?
+- Does the text/image boundary have one clear crafted effect?
+- Are shadows restrained, tactile, and believable?
+- Does the current poster differ from the previous poster in at least three of: base color, title, boundary, material, or climate?
 
 If the boundary bottom does not return to order, or the typography is nearly identical to the previous city, regenerate.
 

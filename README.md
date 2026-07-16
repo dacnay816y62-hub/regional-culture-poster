@@ -1,6 +1,6 @@
 # Regional Culture Poster
 
-![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+![Version](https://img.shields.io/badge/version-v0.1.1-blue)
 ![Skill](https://img.shields.io/badge/skill-regional--culture--poster-6f42c1)
 ![Codex](https://img.shields.io/badge/Codex-supported-2ea44f)
 ![GPT Image 2](https://img.shields.io/badge/GPT%20Image%202-supported-00a3ff)
@@ -10,7 +10,7 @@
 
 ## Current update
 
-MODE B now includes the boundary-restraint and typography-diversity patch: editorial city posters should use restrained regional text/image boundaries, return the lower boundary to straight or orthogonal order, and vary the main Chinese title through structural Song, humanist Song, inscription/architectural, or modern display skeletons instead of repeating one generic font treatment.
+MODE B now includes the final patch: city-specific background base colors, stronger but still legible regional title creativity, crafted boundary effects such as cut-paper/torn-paper/material-collage/embossed/architectural sectional edges, and stricter anti-repetition rules for batch series.
 
 一个用于生成中国地域文化海报的 Codex Skill。它把省份、城市、县域、古城或文化区域转译成“一个主字 + 一个地方文化机制 + 一个克制版式系统”的当代视觉海报。
 
